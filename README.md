@@ -65,7 +65,6 @@ No confidential industrial data, proprietary client information, or restricted p
 * [ORCID](https://orcid.org/0000-0001-7484-1265)
 * [Academia.edu](https://independent.academia.edu/AhmadSaylam)
 * [Xing](https://www.xing.com/profile/Ahmad_Saylam)
-* Google Scholar: add your Google Scholar profile link
 
 ## Collaboration Interests
 
