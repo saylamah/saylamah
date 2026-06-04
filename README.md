@@ -60,12 +60,12 @@ No confidential industrial data, proprietary client information, or restricted p
 
 ## Professional Links
 
-* LinkedIn: add your LinkedIn profile link
-* ResearchGate: add your ResearchGate profile link
+* [LinkedIn](https://www.linkedin.com/in/ahmad-saylam)
+* [ResearchGate](https://www.researchgate.net/profile/Ahmad-Saylam)
+* [ORCID](https://orcid.org/0000-0001-7484-1265)
+* [Academia.edu](https://independent.academia.edu/AhmadSaylam)
+* [Xing](https://www.xing.com/profile/Ahmad_Saylam)
 * Google Scholar: add your Google Scholar profile link
-* ORCID: add your ORCID link
-* Academia.edu: add your Academia.edu profile link
-* Xing: add your Xing profile link
 
 ## Collaboration Interests
 
