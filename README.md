@@ -20,6 +20,8 @@ My professional focus is the translation of scientific knowledge into practical 
 
 ## Purpose of This GitHub Profile
 
+These repositories demonstrate how scientific principles from physical chemistry, thermodynamics, chemical kinetics, combustion, reactive systems, fluid dynamics, heat transfer, computational fluid dynamics (CFD), and process analysis can be translated into practical engineering tools for process development, scale-up, simulation, optimization, and industrial decision support.
+
 This GitHub profile is intended to share selected open technical resources, simplified models, educational notebooks, reproducible calculation workflows, and companion materials related to applied physical-chemical and thermochemical process development.
 
 The materials shared here are intended for scientific communication, technical transparency, education, and professional collaboration.
