@@ -28,24 +28,29 @@ The materials shared here are intended for scientific communication, technical t
 
 No confidential industrial data, proprietary client information, or restricted project material is included.
 
-## Planned Repositories
+## Published and Active Technical Repositories
 
-* `thermochemical-process-notebooks`
-  Educational notebooks and simplified models for thermochemical conversion, pyrolysis, syngas, and process balances.
+- [`biochar-process-modeling`](https://github.com/saylamah/biochar-process-modeling)  
+  Simplified engineering models, curated simulation data, and technical notes on biomass conversion, biochar production, heat generation, syngas formation, and screening-level carbon-management assessment.
 
-* `combustion-kinetics-examples`
+- [`ndms-nanoparticle-inception`](https://github.com/saylamah/ndms-nanoparticle-inception)  
+  Companion materials for the transient nano-dense molecular state (NDMS) hypothesis and persistence–stabilization closure for combustion nanoparticle inception.
+
+- [`combustion-kinetics-examples`](https://github.com/saylamah/combustion-kinetics-examples)  
   Selected examples for combustion chemistry, ignition, emissions, and reactive-system analysis.
 
-* `reactive-systems-scale-up`
+- [`thermochemical-process-notebooks`](https://github.com/saylamah/thermochemical-process-notebooks)  
+  Educational notebooks and simplified models for thermochemical conversion, pyrolysis, syngas, and process balances.
+
+## Repositories in Preparation
+
+- `reactive-systems-scale-up`  
   Engineering notes and simplified models for translating laboratory reactive-system data toward pilot and industrial scale.
 
-* `waste-to-x-process-analysis`
+- `waste-to-x-process-analysis`  
   Open technical resources on waste valorization, circular process routes, and waste-to-energy / waste-to-material concepts.
 
-* `biochar-process-modeling`
-  Simplified models and technical notes on biomass conversion, biochar production, yield, and process performance.
-
-* `publications-companion-materials`
+- `publications-companion-materials`  
   Companion calculations, figures, notebooks, and reproducibility materials related to selected public scientific work.
 
 ## Tools and Methods
