@@ -30,11 +30,11 @@ No confidential industrial data, proprietary client information, or restricted p
 
 ## Published and Active Technical Repositories
 
-- [`biochar-process-modeling`](https://github.com/saylamah/biochar-process-modeling)  
-  Simplified engineering models, curated simulation data, and technical notes on biomass conversion, biochar production, heat generation, syngas formation, and screening-level carbon-management assessment.
-
 - [`ndms-nanoparticle-inception`](https://github.com/saylamah/ndms-nanoparticle-inception)  
   Companion materials for the transient nano-dense molecular state (NDMS) hypothesis and persistence–stabilization closure for combustion nanoparticle inception.
+
+- [`biochar-process-modeling`](https://github.com/saylamah/biochar-process-modeling)  
+  Simplified engineering models, curated simulation data, and technical notes on biomass conversion, biochar production, heat generation, syngas formation, and screening-level carbon-management assessment.
 
 - [`combustion-kinetics-examples`](https://github.com/saylamah/combustion-kinetics-examples)  
   Selected examples for combustion chemistry, ignition, emissions, and reactive-system analysis.
