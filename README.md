@@ -72,6 +72,7 @@ No confidential industrial data, proprietary client information, restricted proj
 * MATLAB
 * Fortran
 * C / C++
+* Jupyter Notebook
 * CFD and reactive-flow modeling
 * Chemical-kinetic modeling
 * Detailed and reduced reaction mechanisms
