@@ -1,6 +1,6 @@
 # Ahmad Saylam
 
-**R&D & Technology Development Leader | Thermochemical Processes, Process Scale-Up & Sustainable Industrial Innovation**
+**R&D Leader | Combustion, Reactive & Thermochemical Processes | Scale-Up & Sustainable Industrial Innovation**
 
 I work at the interface of applied physical chemistry, thermodynamics, chemical kinetics, heat and mass transfer, combustion science, reactive systems, thermochemical conversion, process modeling, CFD simulation, and industrial technology development.
 
