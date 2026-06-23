@@ -34,7 +34,7 @@ No confidential industrial data, proprietary client information, restricted proj
 
 ## Published and Active Technical Repositories
 
-- [`ndms-nanoparticle-inception`](https://github.com/saylamah/ndms-nanoparticle-inception)  
+- [`ndms-combustion-nanoparticle-inception`](https://github.com/saylamah/ndms-nanoparticle-inception)  
   Companion materials for the transient nano-dense molecular state hypothesis and persistence-stabilization closure for combustion nanoparticle inception.
 
 - [`biomass-thermochemical-conversion-modeling`](https://github.com/saylamah/biochar-process-modeling)  
