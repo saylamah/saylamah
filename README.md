@@ -36,6 +36,9 @@ No confidential industrial data, proprietary client information, restricted proj
 
 - [`ndms-combustion-nanoparticle-inception`](https://github.com/saylamah/ndms-nanoparticle-inception)  
   Companion materials for the transient nano-dense molecular state hypothesis and persistence-stabilization closure for combustion nanoparticle inception.
+  
+  - [`aop-kinetic-process-framework`](https://github.com/saylamah/aop-kinetic-process-framework)  
+  Python framework for matrix-aware kinetic and process-level evaluation of advanced oxidation processes in wastewater treatment.
 
 - [`biomass-thermochemical-conversion-modeling`](https://github.com/saylamah/biochar-process-modeling)  
   Simplified engineering models, curated simulation data, and technical notes on biomass thermochemical conversion, biochar production, heat generation, syngas formation, exhaust-gas composition, residence-time effects, and screening-level carbon-management assessment.
@@ -44,9 +47,6 @@ No confidential industrial data, proprietary client information, restricted proj
 
 - `detailed-chemistry-cfd-framework`  
   Detailed chemical-mechanism analysis, construction, reduction, validation, and adaptive implementation for CFD simulation, including selected Fortran and Python workflows.
-
-- `aop-kinetic-process-framework`  
-  A unified kinetic-process framework for advanced oxidation processes, connecting radical chemistry, operating conditions, reactor-scale performance, and wastewater-treatment effectiveness.
 
 - `cavitation-process-intensification-metrics`  
   Energy-normalized metrics and engineering interpretation for hydrodynamic cavitation and related process-intensification technologies.
