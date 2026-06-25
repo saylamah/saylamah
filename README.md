@@ -37,7 +37,7 @@ No confidential industrial data, proprietary client information, restricted proj
 - [`ndms-combustion-nanoparticle-inception`](https://github.com/saylamah/ndms-nanoparticle-inception)  
   Companion materials for the transient nano-dense molecular state hypothesis and persistence-stabilization closure for combustion nanoparticle inception.
   
-  - [`aop-kinetic-process-framework`](https://github.com/saylamah/aop-kinetic-process-framework)  
+- [`aop-kinetic-process-framework`](https://github.com/saylamah/aop-kinetic-process-framework)  
   Python framework for matrix-aware kinetic and process-level evaluation of advanced oxidation processes in wastewater treatment.
 
 - [`biomass-thermochemical-conversion-modeling`](https://github.com/saylamah/biochar-process-modeling)  
