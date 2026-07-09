@@ -47,9 +47,6 @@ No confidential industrial data, proprietary client information, restricted proj
 - `cavitation-process-intensification-metrics`  
   Energy-normalized metrics and engineering interpretation for hydrodynamic cavitation and related process-intensification technologies.
 
-- `desulfurization-reaction-transport-regimes`  
-  Reaction-transport regime analysis for gas and petroleum-stream desulfurization, supporting diagnosis, technology selection, and operating-window definition.
-
 - `fuel-oil-upgrading-conditioning`  
   Simplified engineering models and technical notes on fuel and oil upgrading, blending, homogenization, viscosity reduction, desulfurization, and hydrocarbon-stream conditioning.
 
