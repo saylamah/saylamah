@@ -32,6 +32,9 @@ No confidential industrial data, proprietary client information, restricted proj
 
 - [`aop-kinetic-process-framework`](https://github.com/saylamah/aop-kinetic-process-framework)  
   Python framework for matrix-aware kinetic and process-level evaluation of advanced oxidation processes in wastewater treatment.
+  
+- [`desulfurization-reaction-transport-regimes`](https://github.com/saylamah/desulfurization-reaction-transport-regimes)
+  Engineering diagnostic framework for desulfurization reaction–transport regimes, process intensification, and scale-up evaluation in gas and petroleum streams.
 
 - [`biomass-process-modeling`](https://github.com/saylamah/biochar-process-modeling)  
   Simplified engineering models, curated simulation data, and technical notes on biomass thermochemical conversion, biochar production, heat generation, syngas formation, exhaust-gas composition, residence-time effects, and screening-level carbon-management assessment.
