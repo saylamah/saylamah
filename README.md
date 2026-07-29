@@ -1,86 +1,213 @@
 # Ahmad Saylam
 
-**R&D, Process & Systems Development Leader | Scientific & Technical Consultant**  
-**Combustion, Reactive & Thermochemical Processes | Process Intensification | Scale-Up | Sustainable Industrial Innovation**
+**R&D & Technology Development Leader | Scientific & Engineering Consultant**
 
-I work at the interface of applied physical chemistry, thermodynamics, chemical kinetics, heat and mass transfer, combustion science, reactive systems, thermochemical conversion, process modeling, CFD simulation, process intensification, and industrial process development.
+**Reactive and thermochemical systems—from molecular kinetics and computational modelling to process development, validation and industrial scale-up.**
 
-My professional focus is translating scientific and engineering knowledge into practical, scalable, and industrially meaningful solutions for clean energy, resource efficiency, biomass and waste conversion, fuels and oil processing, wastewater treatment, emissions reduction, resource recovery, and circular industrial innovation.
+I work at the interface of applied physical chemistry, chemical kinetics, thermodynamics, transport phenomena, reactor and process modelling, experimental development, and industrial engineering.
 
-## Technical Focus
+My work connects fundamental scientific understanding with practical decisions in technology development: defining the relevant mechanisms, selecting the appropriate modelling resolution, designing validation programmes, evaluating process performance, and translating results toward pilot and industrial implementation.
 
-- Applied physical chemistry, thermodynamics, transport phenomena, heat and mass transfer
-- Chemical kinetics, detailed and reduced mechanisms, combustion, ignition, emissions, soot formation, and nanoparticle inception
-- Reactive, thermochemical, energetic, and thermodynamic system development
-- Biomass, waste, and alternative-feedstock conversion, including pyrolysis, gasification, reforming, syngas, biochar, and heat-recovery concepts
-- Fuel, oil, and hydrocarbon-stream processing, including blending, homogenization, viscosity reduction, desulfurization support, and conditioning
-- Wastewater treatment, advanced oxidation processes, process intensification, and selected hydrodynamic cavitation applications
-- Process modeling, CFD, 0D–3D simulation, validation, optimization, engineering diagnostics, pilot concepts, and scale-up
-- Waste-to-X, circular economy, resource recovery, and sustainable industrial process development
+[Technical Website](https://saylamah.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/ahmad-saylam) ·
+[ORCID](https://orcid.org/0000-0001-7484-1265) ·
+[Google Scholar](https://scholar.google.com/citations?user=2I4xhywAAAAJ&hl=en)
 
-## Purpose of This GitHub Profile
+---
 
-This GitHub profile shares selected public and non-confidential technical resources, simplified models, educational notebooks, reproducible calculation workflows, engineering frameworks, and companion materials related to applied physical-chemical sciences, thermochemical process development, detailed chemistry, CFD, wastewater treatment, fuels and oil processing, and sustainable industrial innovation.
+## Professional Focus
 
-The materials are intended to support scientific communication, technical transparency, education, reproducibility, engineering interpretation, and professional collaboration.
+### Reactive Systems & Kinetic Intelligence
 
-No confidential industrial data, proprietary client information, restricted project material, company-owned know-how, or sensitive operational information is included.
+- Detailed and reduced chemical-kinetic mechanisms
+- Reaction-rate, pathway, sensitivity, and reaction-network analysis
+- Ignition, combustion, emissions, soot, and nanoparticle inception
+- Dynamic and adaptive chemistry for reactor and CFD applications
+- Mechanism validation and applicability-domain assessment
 
-## Selected Public Technical Repositories
+### Reactor, CFD & Multiscale Modelling
 
-- [`ndms-nanoparticle-inception`](https://github.com/saylamah/ndms-nanoparticle-inception)  
-  Companion materials for the transient nano-dense molecular state hypothesis and persistence-stabilization closure for combustion nanoparticle inception.
+- Zero-, one-, two-, and three-dimensional modelling
+- Homogeneous and heterogeneous reactor analysis
+- Reactive-flow and multiphysics CFD
+- Heat and mass transfer, mixing, residence time, and transport–reaction coupling
+- Model-to-experiment comparison and engineering interpretation
 
-- [`aop-kinetic-process-framework`](https://github.com/saylamah/aop-kinetic-process-framework)  
-  Python framework for matrix-aware kinetic and process-level evaluation of advanced oxidation processes in wastewater treatment.
+### Thermochemical & Sustainable Process Development
 
-- [`desulfurization-reaction-transport-regimes`](https://github.com/saylamah/desulfurization-reaction-transport-regimes)  
-  Engineering diagnostic framework for desulfurization reaction–transport regimes, process intensification, and scale-up evaluation in gas and petroleum streams.
+- Pyrolysis, gasification, reforming, syngas, and biochar
+- Biomass, residues, wastes, and alternative feedstocks
+- Fuel, oil, and hydrocarbon-stream processing
+- Advanced oxidation, wastewater treatment, and resource recovery
+- Process intensification, energy integration, and circular process concepts
 
-- [`biomass-process-modeling`](https://github.com/saylamah/biochar-process-modeling)  
-  Simplified engineering models, curated simulation data, and technical notes on biomass thermochemical conversion, biochar production, heat generation, syngas formation, exhaust-gas composition, residence-time effects, and screening-level carbon-management assessment.
+### Technology Development, Validation & Scale-Up
 
-## Planned Repository Roadmap
+- Technical feasibility and scientific due diligence
+- Experimental and pilot-programme definition
+- Technology claims assessment
+- Process configuration, optimisation, and operability review
+- Scale-up risk identification and industrial decision support
 
-- `detailed-chemistry-cfd-framework`  
-  Chemical-mechanism analysis, construction, reduction, validation, and adaptive implementation for CFD simulation.
+---
 
-- `fuel-oil-processing-conditioning`  
-  Simplified engineering models and technical notes on fuel and oil processing, blending, homogenization, viscosity reduction, desulfurization support, and hydrocarbon-stream conditioning.
+## Selected Public Technical Work
 
-- `reactive-systems-scale-up`  
-  Engineering notes and simplified models for translating laboratory reactive-system data toward pilot and industrial scale.
+### [`aop-kinetic-process-framework`](https://github.com/saylamah/aop-kinetic-process-framework)
 
-- `waste-to-x-process-analysis`  
-  Open technical resources on waste valorization, circular process routes, and waste-to-energy / waste-to-material concepts.
+A Python-based framework for matrix-aware kinetic and process-level assessment of advanced oxidation processes in wastewater treatment.
 
-- `cavitation-process-intensification-metrics`  
-  Energy-normalized metrics and engineering interpretation for hydrodynamic cavitation and related process-intensification technologies.
+**Scope:** reaction-network interpretation, oxidant utilisation, matrix effects, process screening, and engineering evaluation.
 
-- `publications-companion-materials`  
-  Companion calculations, figures, notebooks, and reproducibility materials related to selected public scientific and technical work.
+---
 
-## Consulting & Advisory Interests
+### [`desulfurization-reaction-transport-regimes`](https://github.com/saylamah/desulfurization-reaction-transport-regimes)
 
-I am interested in selected scientific and technical consulting, applied R&D collaboration, process-development support, technical evaluation, pilot-validation planning, scale-up strategy, industrial problem solving, non-confidential technology positioning, and sustainable process engineering.
+An engineering framework for interpreting the interaction of intrinsic kinetics, mass transfer, mixing, process intensification, and scale-up in gas- and petroleum-stream desulfurization.
 
-Relevant areas include combustion, nanoparticle formation, detailed chemistry and CFD implementation, thermochemical conversion, biomass and waste valorization, fuel and oil processing, desulfurization support, process intensification, hydrodynamic cavitation, advanced oxidation processes, wastewater treatment, resource recovery, energy efficiency, emissions reduction, pilot development, and circular industrial technologies.
+**Scope:** diagnostic and decision-support methodology rather than a universal process-performance predictor.
 
-## Tools and Methods
+---
 
-**Programming and computation:** Python, MATLAB, Fortran, C/C++, Jupyter Notebook  
+### [`biomass-process-modeling`](https://github.com/saylamah/biochar-process-modeling)
 
-**Modeling and simulation:** CFD, reactive-flow modeling, chemical-kinetic modeling, detailed and reduced reaction mechanisms, 0D–3D modeling  
+Simplified engineering models and curated technical resources for biomass thermochemical conversion, biochar, syngas, heat generation, residence-time effects, and screening-level carbon-management assessment.
 
-**Engineering analysis:** heat and mass transfer, process calculations, validation, optimization, diagnostics, scale-up interpretation, and process-performance evaluation  
+**Scope:** transparent screening and process interpretation; not a substitute for validated feedstock-, particle-, and reactor-specific models.
 
-**Communication and reproducibility:** data visualization, technical documentation, educational notebooks, application notes, scientific content, and reproducible calculation workflows
+---
+
+### [`ndms-nanoparticle-inception`](https://github.com/saylamah/ndms-nanoparticle-inception)
+
+Companion materials for the transient nano-dense molecular state hypothesis and a persistence–stabilisation framework for combustion nanoparticle inception.
+
+**Maturity:** frontier scientific hypothesis and reproducible conceptual framework. It should not be interpreted as an established universal nanoparticle-inception mechanism.
+
+---
+
+## Current Development Priorities
+
+### Kinetic Intelligence
+
+A modern mechanism-analysis, reduction, reaction-network, and validation platform is under private reconstruction.
+
+Planned capabilities include:
+
+- mechanism auditing and provenance;
+- scenario-ensemble generation;
+- reaction-rate and flux analysis;
+- sensitivity and kinetic-control diagnostics;
+- reaction-network intelligence;
+- static and adaptive mechanism reduction;
+- conservative state transfer;
+- validation and applicability-domain reporting.
+
+The historical scientific methods and archived programs are being re-derived, tested, and benchmarked before any public software release.
+
+**Current maturity:** research reconstruction and validation in progress.
+
+### Technical Website
+
+The website at [saylamah.github.io](https://saylamah.github.io) is being developed as the structured evidence layer connecting:
+
+- expertise;
+- publications;
+- technical repositories;
+- reproducible tools;
+- selected case studies;
+- professional collaboration.
+
+### Scientific & Engineering Consulting Platform
+
+A separate international consulting website is planned as the client-facing layer.
+
+It will present selected services, technical case studies, collaboration models, and expert-network capabilities using only:
+
+- public or non-confidential material;
+- rights-cleared figures and documents;
+- independently reconstructed software;
+- technically reviewed evidence;
+- clearly stated maturity and validation levels.
+
+The consulting website will not be a duplicate of this GitHub profile. GitHub will provide technical evidence; the consulting website will translate that evidence into practical client applications and decision-support services.
+
+---
+
+## Working Approach
+
+My usual development sequence is:
+
+1. **Define** the technical problem, feed, products, constraints, and decision objective.
+2. **Model** the relevant physical, chemical, transport, and process phenomena at an appropriate level of detail.
+3. **Validate** assumptions and predictions against experiments, literature, benchmarks, and quantitative acceptance criteria.
+4. **Interpret** the results in terms of process performance, uncertainty, limitations, and engineering relevance.
+5. **Scale** the concept toward pilot configuration, operability, safety, control, and industrial implementation.
+
+The objective is not merely to demonstrate a scientific or technological effect, but to determine when, where, and under which conditions that effect becomes useful.
+
+---
+
+## Consulting & Collaboration
+
+Selected engagements may include:
+
+- applied scientific and engineering R&D;
+- mechanism, reactor, and process modelling;
+- technical due diligence and claims assessment;
+- technology and partner evaluation;
+- experimental and pilot-programme planning;
+- process-development and optimisation support;
+- scale-up strategy and risk analysis;
+- independent technical review;
+- scientific documentation and reproducibility support.
+
+Collaboration is considered selectively where the problem, available evidence, responsibilities, confidentiality, intellectual property, and expected technical outcome are clearly defined.
+
+---
+
+## Tools & Methods
+
+**Programming and scientific computing**
+
+Python · Fortran · MATLAB · C/C++ · Jupyter · Cantera
+
+**Modelling and simulation**
+
+Chemical kinetics · Reaction mechanisms · Reactor modelling · Reactive-flow CFD · 0D–3D simulation · Network analysis
+
+**Engineering analysis**
+
+Thermodynamics · Heat and mass transfer · Transport phenomena · Process calculations · Sensitivity analysis · Validation · Optimisation · Scale-up
+
+**Technical communication**
+
+Scientific publications · Engineering reports · Technical proposals · Reproducible workflows · Educational resources · Data visualisation
+
+---
+
+## Public-Information & Provenance Policy
+
+This profile contains selected public and non-confidential scientific and engineering material.
+
+It does not intentionally disclose:
+
+- confidential client or employer information;
+- restricted operating data;
+- proprietary equipment details;
+- company-owned know-how;
+- third-party software or mechanisms without appropriate permission;
+- unpublished personal or collaborator material without consent.
+
+Historical codes, mechanisms, figures, and documents are screened for authorship, ownership, confidentiality, licensing, technical integrity, and validation before public release.
+
+---
 
 ## Professional Links
 
+- [Technical Website](https://saylamah.github.io)
 - [LinkedIn](https://www.linkedin.com/in/ahmad-saylam)
 - [ORCID](https://orcid.org/0000-0001-7484-1265)
+- [Google Scholar](https://scholar.google.com/citations?user=2I4xhywAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Ahmad-Saylam)
 - [Academia.edu](https://independent.academia.edu/AhmadSaylam)
 - [Xing](https://www.xing.com/profile/Ahmad_Saylam)
-- [Google Scholar](https://scholar.google.com/citations?user=2I4xhywAAAAJ&hl=de)
