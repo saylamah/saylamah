@@ -17,13 +17,14 @@ My work connects fundamental scientific understanding with practical decisions i
 
 ## Professional Focus
 
-### Reactive Systems & Kinetic Intelligence
+### Reactor, CFD & Multiscale Modelling
 
-- Detailed and reduced chemical-kinetic mechanisms
-- Reaction-rate, pathway, sensitivity, and reaction-network analysis
-- Ignition, combustion, emissions, soot, and nanoparticle inception
-- Dynamic and adaptive chemistry for reactor and CFD applications
-- Mechanism validation and applicability-domain assessment
+- Zero-, one-, two-, and three-dimensional modelling
+- Homogeneous and heterogeneous reactor analysis
+- Reactive-flow, combustion, heat-transfer, and multiphase CFD using ANSYS Fluent and OpenFOAM
+- Detailed and reduced chemistry implementation using CHEMKIN and Cantera
+- Turbulence–chemistry interaction, species transport, mixing, residence time, and transport–reaction coupling
+- Model development, numerical verification, experimental comparison, and engineering interpretation
 
 ### Reactor, CFD & Multiscale Modelling
 
@@ -169,19 +170,23 @@ Collaboration is considered selectively where the problem, available evidence, r
 
 **Programming and scientific computing**
 
-Python · Fortran · MATLAB · C/C++ · Jupyter · Cantera
+Python · Fortran · MATLAB · C/C++ · Jupyter Notebook
 
-**Modelling and simulation**
+**Chemical kinetics and reaction-mechanism tools**
 
-Chemical kinetics · Reaction mechanisms · Reactor modelling · Reactive-flow CFD · 0D–3D simulation · Network analysis
+CHEMKIN · Cantera · detailed and reduced reaction mechanisms · reaction-path analysis · sensitivity analysis · mechanism reduction · adaptive chemistry
 
-**Engineering analysis**
+**CFD and reactor simulation**
 
-Thermodynamics · Heat and mass transfer · Transport phenomena · Process calculations · Sensitivity analysis · Validation · Optimisation · Scale-up
+ANSYS Fluent · OpenFOAM · reactive-flow CFD · combustion modelling · species transport · turbulence–chemistry interaction · heat-transfer modelling · multiphase modelling · 0D–3D reactor simulation
 
-**Technical communication**
+**Engineering and process analysis**
 
-Scientific publications · Engineering reports · Technical proposals · Reproducible workflows · Educational resources · Data visualisation
+Thermodynamics · heat and mass transfer · transport phenomena · process calculations · validation · optimisation · scale-up · technical performance assessment
+
+**Technical communication and reproducibility**
+
+Scientific publications · engineering reports · technical proposals · reproducible workflows · educational resources · data visualisation
 
 ---
 
