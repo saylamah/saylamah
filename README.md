@@ -1,8 +1,8 @@
 # Ahmad Saylam
 
-**R&D & Technology Development Leader | Scientific & Engineering Consultant**
+**R&D, Process & Technology Development Leader | Reactive & Thermochemical Systems | Modelling, Validation & Scale-Up**
 
-**Reactive and thermochemical systems—from molecular kinetics and computational modelling to process development, validation and industrial scale-up.**
+Scientific and engineering work connecting molecular and reaction-level understanding with process development, pilot validation and industrial implementation.
 
 I work at the interface of applied physical chemistry, chemical kinetics, thermodynamics, transport phenomena, reactor and process modelling, experimental development, and industrial engineering.
 
