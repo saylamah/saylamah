@@ -13,6 +13,7 @@ My work focuses on converting scientific understanding and technical evidence in
 [Selected Work](https://saylamah.github.io/selected-work.html) ·
 [Research & Tools](https://saylamah.github.io/research-tools.html) ·
 [Publications](https://saylamah.github.io/publications.html) ·
+[العربية | Arabic](https://github.com/saylam) ·
 [LinkedIn](https://www.linkedin.com/in/ahmad-saylam)
 
 ---
@@ -247,6 +248,7 @@ Historical codes, figures, documents and models are reviewed for authorship, own
 ## Professional Links
 
 - [Professional Website](https://saylamah.github.io)
+- [العربية | Arabic & GCC Gateway](https://github.com/saylam)
 - [Scientific & Engineering Consulting](https://saylamah.github.io/consulting.html)
 - [Selected Work & Case Studies](https://saylamah.github.io/selected-work.html)
 - [Research Methods & Tools](https://saylamah.github.io/research-tools.html)
