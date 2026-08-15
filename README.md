@@ -132,22 +132,21 @@ The NDMS concept is testable but is not presented as an established universal ph
 
 ### Kinetic Intelligence
 
-Historical work on reaction-rate analysis, sensitivity, reaction networks, mechanism reduction and adaptive chemistry is being re-derived as a modern Python and Cantera framework.
+Historical work on reaction-rate analysis, sensitivity, reaction networks and mechanism reduction has now been extended into a causal adaptive-chemistry study implemented and tested with Python and Cantera.
 
-Planned modules include:
+The published study uses GRI-Mech 3.0 and USC Mech II to separate three questions: when the chemistry-refresh schedule should change, whether the reduced chemistry remains accurate, and whether the implementation is computationally faster.
 
-- mechanism audit and provenance;
-- reactor-case and scenario management;
-- reaction-rate and flux analysis;
-- sensitivity and kinetic-control diagnostics;
-- chemical reaction-network analysis;
-- static and adaptive mechanism reduction;
-- conservative state transfer;
-- validation and applicability reporting.
+Key evidence includes:
 
-**Current maturity:** controlled research reconstruction and benchmark validation.
+- causal adaptive mechanism reduction with conservative state transfer;
+- validation against predefined ignition, temperature and selected-species error gates;
+- transfer of the controller architecture to a second detailed mechanism using a mechanism-specific candidate domain;
+- explicit runtime attribution separating chemistry integration from controller and mechanism-management overhead;
+- a complete reproducibility supplement with code, validation evidence, diagnostics and profiling results.
 
-The platform is not yet presented as validated public software or as evidence of demonstrated computational acceleration.
+**Published validation milestone:** the adaptive method passed the defined accuracy gates for the tested methane/air cases. Static USC reduction achieved 4.56–4.99× speed-up on the tested computer, while the present adaptive Python/Cantera prototype was slower because graph evaluation, reduced-phase construction, state transfer and controller operations dominated runtime. Accuracy and computational acceleration are therefore reported as separate results.
+
+[Open the preprint and reproducibility supplement](https://doi.org/10.5281/zenodo.21932685)
 
 ---
 
