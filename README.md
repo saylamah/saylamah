@@ -256,3 +256,13 @@ Historical codes, figures, documents and models are reviewed for authorship, own
 - [ORCID](https://orcid.org/0000-0001-7484-1265)
 - [Google Scholar](https://scholar.google.com/citations?user=2I4xhywAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Ahmad-Saylam)
+
+## Contact
+
+For scientific collaboration, technology development, consulting and engineering cooperation:
+
+Email: saylam@scientavia.com
+
+Website: https://saylamah.github.io/
+
+LinkedIn: https://www.linkedin.com/in/ahmad-saylam
